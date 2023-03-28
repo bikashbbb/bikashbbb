@@ -1,6 +1,5 @@
 - 👋 Hi, I’m bikash bhandari.
 - 👀 I’m interested in creating android applications,and flutter apps !
-- 🌱 I’m currently learning android native with kotlin
 - 💞️ I’m looking to collaborate on my bluetooth muliplayer tic tac toe !!
 - 📫 How to reach me bikashbhandari715@gmail.com
 
